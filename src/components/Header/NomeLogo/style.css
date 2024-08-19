@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Press+Start+2P&display=swap');
+
+.NomeLogo {
+    font-size: 1.5rem;
+    font-family: 'DM Serif Text';
+    font-weight: 400;
+    color: #37FFA5;
+    margin-left: 0.5rem;
+    
+}
