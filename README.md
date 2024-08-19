@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# React App - Projeto de Web-Site para Programadores
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## O website tem como intuito postagens de noticias dirairas do mundo da tecnologia!
 
-## Available Scripts
+## Tanto quanto a pratica da biblioteca React para sua aplicacao...
 
-In the project directory, you can run:
+# Como rodar?
 
 ### `npm start`
 
