@@ -1,8 +1,8 @@
 # React App - Projeto de Web-Site para Programadores
 
-## O website tem como intuito postagens de noticias dirairas do mundo da tecnologia!
+<p> O website tem como intuito postagens de noticias dirairas do mundo da tecnologia! </p>
 
-## Tanto quanto a pratica da biblioteca React para sua aplicacao...
+<p> Tanto quanto a pratica da biblioteca React para sua aplicacao... </p>
 
 # Como rodar?
 
